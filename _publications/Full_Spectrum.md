@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/Full_Spectrum
 excerpt: 'We conducted a large-scale study of whole-brain morphometry, analyzing 3.7 peta-voxels of mouse brain images at the single-cell resolution, producing one of the largest multi-morphometry databases of mammalian brains to date.'
 date: 2023-07-24
-venue: 'Research Square: Under Review (2023)'
+venue: 'Research Square (Under Review)'
 paperurl: 'http://sd-jiang.github.io/files/Full_Spectrum.pdf'
 citation: 'Liu, Y., Jiang, S., Li, Y., Zhao, S., Yun, Z., Zhao, Z. H., ... & Peng, H. (2023). Full-Spectrum Neuronal Diversity and Stereotypy through Whole Brain Morphometry. Research Square.'
 ---
