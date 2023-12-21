@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/MorphoHub
 excerpt: 'we developed a multi-level method to produce high quality somatic, dendritic, axonal, and potential synaptic morphometry, which was made possible by utilizing necessary petabyte hardware and software platform to optimize both the data and workflow management.'
 date: 2022-02-19
-venue: 'Volume 20, pages 525–536'
+venue: 'Neuroinformatics, Volume 20, pages 525–536'
 paperurl: 'http://sd-jiang.github.io/files/MorphoHub.pdf'
 citation: 'Jiang, S., Wang, Y., Liu, L., Ding, L., Ruan, Z., Dong, H. W., ... & Peng, H. (2022). Petabyte-scale multi-morphometry of single neurons for whole brains. Neuroinformatics, 20(2), 525-536.'
 ---
@@ -14,4 +14,3 @@ Recent advances in brain imaging allow producing large amounts of 3-D volumetric
 
 [Get detail](http://sd-jiang.github.io/files/MorphoHub.pdf)
 
-Recommended citation: Jiang, S., Wang, Y., Liu, L., Ding, L., Ruan, Z., Dong, H. W., ... & Peng, H. (2022). Petabyte-scale multi-morphometry of single neurons for whole brains. Neuroinformatics, 20(2), 525-536.

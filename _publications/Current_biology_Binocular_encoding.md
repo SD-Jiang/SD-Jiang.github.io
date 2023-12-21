@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/Current_biology_Binocular_encoding
 excerpt: 'Supple et al. link the divergent eye morphology and hunting strategies of dragonflies and damselflies. Targetselective descending neurons in these two groups are identified as homologous, but damselfly TSDNs face forward and encode information in a binocular-fused reference frame.'
 date: 2020-02-24
-venue: 'Volume 30, pages 645-656'
+venue: 'Current Biology, Volume 30, pages 645-656'
 paperurl: 'http://sd-jiang.github.io/files/Current_biology_Binocular_encoding.pdf'
 citation: 'Supple, J. A., Pinto-Benito, D., Khoo, C., Wardill, T. J., Fabian, S. T., Liu, M., ... & Gonzalez-Bellido, P. T. (2020). Binocular encoding in the damselfly pre-motor target tracking system. Current Biology, 30(4), 645-656.'
 ---
@@ -13,4 +13,3 @@ Akin to all damselflies, Calopteryx (family Calopterygidae), commonly known as j
 
 [Get detail](http://sd-jiang.github.io/files/Current_biology_Binocular_encoding.pdf)
 
-Recommended citation: Supple, J. A., Pinto-Benito, D., Khoo, C., Wardill, T. J., Fabian, S. T., Liu, M., ... & Gonzalez-Bellido, P. T. (2020). Binocular encoding in the damselfly pre-motor target tracking system. Current Biology, 30(4), 645-656.

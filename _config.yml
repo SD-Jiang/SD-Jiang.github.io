@@ -9,7 +9,7 @@
 locale                   : "Nanjing-China"
 title                    : "SD-Jiang"
 title_separator          : "-"
-name                     : &name "Shengdian Jiang（姜升殿)"
+name                     : &name "Shengdian Jiang (姜升殿)"
 description              : &description "PhD student in Southeast University"
 url                      : https://sd-jiang.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "SD-Jiang"
+  name             : "SD-Jiang (Shengdian Jiang)"
   avatar           : "profile.png"
   bio              : "Computer science and neuroscience"
   location         : "Nanjing, China"
