@@ -21,12 +21,13 @@ My research interests lie in Big data management. Currently, I am working on upd
     - MorphoHub platform
     - Morphology diversity
     - Binocular encoding
+- [NeuroXiv](https://neuroxiv.org): AI-Powered Open Databasing and Dynamic Mining of Brain-Wide Neuron Morphometry
 - Image enhancement method
 - Neuron reconstruction refinement
 - Axonal bouton detection
+- Axonal bouton network analysis
 - [Full-Spectrum Neuronal Diversity and Stereotypy](https://github.com/SEU-ALLEN-codebase/full_spectrum_sources)
 - [NeuVOI](https://github.com/CoFuture/NeuVOI)
-- NeuroXiv web platform for brain-wide neuron morphometry (**Ongoing**)
 
 ### Related Projects
 - [Vaa3D](https://github.com/Vaa3D)
