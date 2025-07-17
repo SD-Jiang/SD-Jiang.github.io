@@ -5,7 +5,7 @@ permalink: /publication/Full_Spectrum
 excerpt: 'We conducted a large-scale study of whole-brain morphometry, analyzing 3.7 peta-voxels of mouse brain images at the single-cell resolution, producing one of the largest multi-morphometry databases of mammalian brains to date.'
 date: 2024-11-26
 venue: 'Nature Communications'
-paperurl: 'http://sd-jiang.github.io/files/Full_Spectrum.pdf'
+paperurl: 'https://doi.org/10.1038/s41467-024-54745-6'
 citation: 'Liu, Y., Jiang, S., Li, Y. et al. Neuronal diversity and stereotypy at multiple scales through whole brain morphometry. Nat Commun 15, 10269 (2024). https://doi.org/10.1038/s41467-024-54745-6'
 ---
 ## Abstract:

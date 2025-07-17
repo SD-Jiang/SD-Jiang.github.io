@@ -5,7 +5,7 @@ permalink: /publication/NeuroXiv
 excerpt: 'We introduce NeuroXiv (neuroxiv.org), a large-scale, AI-powered database that provides detailed 3D morphologies of individual neurons mapped to a standard brain atlas, designed to support a wide array of dynamic, interactive neuroscience applications.'
 date: 2025-04-29
 venue: 'Nature Methods'
-paperurl: 'https://www.biorxiv.org/content/10.1101/2024.09.22.614319v1'
+paperurl: 'https://doi.org/10.1038/s41592-025-02687-2'
 citation: 'Jiang, S., Wang, L., Yun, Z. et al. NeuroXiv: AI-powered open databasing and dynamic mining of brain-wide neuron morphometry. Nat Methods 22, 1195–1198 (2025). https://doi.org/10.1038/s41592-025-02687-2'
 ---
 ## Abstract:
