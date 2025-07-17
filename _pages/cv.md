@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Electronic and Information Engineering, Yanshan University, 2012
 * M.S. in Biomedical Engineering, Southeast University, 2016
-* Ph.D in Computer Science and Technology, Southeast University, 2024 (expected)
+* Ph.D in Computer Science and Technology, Southeast University, 2025
 
   
 Skills

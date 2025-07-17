@@ -1,12 +1,12 @@
 ---
-title: "Beyond Static Brain Atlases: AI-Powered Open Databasing and Dynamic Mining of Brain-Wide Neuron Morphometry"
+title: "NeuroXiv: AI-powered open databasing and dynamic mining of brain-wide neuron morphometry"
 collection: publications
 permalink: /publication/NeuroXiv
 excerpt: 'We introduce NeuroXiv (neuroxiv.org), a large-scale, AI-powered database that provides detailed 3D morphologies of individual neurons mapped to a standard brain atlas, designed to support a wide array of dynamic, interactive neuroscience applications.'
-date: 2024-09-24
-venue: 'BioRxiv'
+date: 2025-04-29
+venue: 'Nature Methods'
 paperurl: 'https://www.biorxiv.org/content/10.1101/2024.09.22.614319v1'
-citation: 'Jiang, S., Wang, L., Yun, Z., Chen, H., Yao, J., & Peng, H. (2024). Beyond Static Brain Atlases: AI-Powered Open Databasing and Dynamic Mining of Brain-Wide Neuron Morphometry (p. 2024.09.22.614319). bioRxiv. https://doi.org/10.1101/2024.09.22.614319'
+citation: 'Jiang, S., Wang, L., Yun, Z. et al. NeuroXiv: AI-powered open databasing and dynamic mining of brain-wide neuron morphometry. Nat Methods 22, 1195–1198 (2025). https://doi.org/10.1038/s41592-025-02687-2'
 ---
 ## Abstract:
 

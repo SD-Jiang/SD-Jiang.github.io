@@ -10,14 +10,12 @@ redirect_from:
 
 This is SD-Jiang's home on the web.
 
-![My school](http://sd-jiang.github.io/images/seu.jpg)
+![Sunset](http://sd-jiang.github.io/images/1.jpg)
 
-I am currently a Ph.D. student in [Institute for Brain and Intelligence](https://braintell.org/) of Southeast University, under the supervision of [Prof. Hanchuan Peng](https://home.penglab.com/). I received my M.S. degree from Southeast University in 2019.
-
-My research interests lie in Big data management. Currently, I am working on updating the index of large-scale bioimaging data.
+Assistant Research Professor at the College of Artificial Intelligence, Nanjing University of Aeronautics and Astronautics. I received my Ph.D. from Southeast University under the supervision of Professor [Prof. Hanchuan Peng](https://home.penglab.com/), specializing in brain science and computational neuroscience. My research interests include intelligent data analysis, smart databases, and related fields. I received my M.S. degree from Southeast University in 2019.
 
 ### My works
-- BICCN
+- BICCN project
     - MorphoHub platform
     - Morphology diversity
     - Binocular encoding
