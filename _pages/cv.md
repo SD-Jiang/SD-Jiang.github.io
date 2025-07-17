@@ -11,15 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Electronic and Information Engineering, Yanshan University, 2012
-* M.S. in Biomedical Engineering, Southeast University, 2016
+* B.S. in Electronic and Information Engineering, Yanshan University, 2016
+* M.S. in Biomedical Engineering, Southeast University, 2019
 * Ph.D in Computer Science and Technology, Southeast University, 2025
-
-  
-Skills
-======
-* C++ / C / QT
-* Python / Matlab / R
 
 Projects
 ======

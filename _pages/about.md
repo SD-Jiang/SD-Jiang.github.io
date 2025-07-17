@@ -18,7 +18,7 @@ I received my Ph.D. from Southeast University under the supervision of Professor
 
 ### My works
 - [NeuroXiv](https://neuroxiv.org): AI-Powered Open Databasing and Dynamic Mining of Brain-Wide Neuron Morphometry
-- BICCN project
+- [BICCN project](https://www.nature.com/collections/cicghheddj)
     - MorphoHub platform
     - Morphology diversity
     - Binocular encoding
