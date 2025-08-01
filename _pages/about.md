@@ -12,7 +12,7 @@ redirect_from:
 
 ![Research interests](http://sd-jiang.github.io/images/ai_data_ana.png)
 
-I received my Ph.D. from Southeast University under the supervision of Professor [Prof. Hanchuan Peng](https://home.penglab.com/), specializing in brain science and computational neuroscience. My research interests include intelligent data analysis, smart databases, and related fields. 
+I received my Ph.D. from Southeast University under the supervision of Professor [Hanchuan Peng](https://home.penglab.com/), specializing in brain science and computational neuroscience. My research interests include intelligent data analysis, smart databases, and related fields. 
 
 ### My works
 - [NeuroXiv](https://neuroxiv.org): AI-Powered Open Databasing and Dynamic Mining of Brain-Wide Neuron Morphometry
